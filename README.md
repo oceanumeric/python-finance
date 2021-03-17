@@ -8,6 +8,8 @@ To investigate the risk part, I would rely one tools such as financial econometr
 
 * Financial Econometrics by [Kevin Sheppard](https://www.kevinsheppard.com/teaching/mfe/notes/)
 
+* Introduction to Computational Finance and Financial Econometrics by [Eric Zivot](https://faculty.washington.edu/ezivot/econ424/424notes.htm)
+
 * Topics in Mathematics with Applications in Finance from [MIT](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/index.htm)
 
 To investigate the return part, I would apply the economic models, such as growth models and monetary economics. Here are some courses that I find useful:
