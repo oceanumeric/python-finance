@@ -1,0 +1,14 @@
+Create an virtual environment with virtualenvwrapper
+
+- make an virtual environment: ` mkvirtualenv -p python3 project-name`
+- list all your packages: `lssitepackages`
+- list all virtual environment: workon
+- start `source /usr/local/bin/virtualenvwrapper.sh`
+- activiate your virtual environment: `workon project-name`
+- deactivate your virtual environment: 'deactivate project-name'
+- remove: `rmvirtualenv ENVNAME`
+
+Link: https://realpython.com/python-virtual-environments-a-primer/
+
+pypi install in China: pip install -i https://pypi.tuna.tsinghua.edu.cn/simple
+pypi install in China: pip install -i https://pypi.doubanio.com/simple
